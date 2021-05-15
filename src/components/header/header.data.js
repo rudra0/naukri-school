@@ -16,11 +16,11 @@ export default [
     label: 'Why Us',
   },
   {
-    path: 'blog',
-    label: 'Blog',
+    path: '',
+    label: ' ',
   },
-  {
-    path: 'login',
-    label: 'Login',
-  },
+  // {
+  //   path: 'login',
+  //   label: 'Login',
+  // },
 ];

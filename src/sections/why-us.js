@@ -5,49 +5,56 @@ import Tabs, { TabPane } from 'rc-tabs';
 import { RiCheckboxCircleFill } from 'react-icons/ri';
 import { rgba } from 'polished';
 import { LearnMore } from 'components/link';
-import tabImage1 from 'assets/images/tab-illustration-1.png';
+import tabImage1 from 'assets/images/tab-illustration-1.jpeg';
+import tabImage2 from 'assets/images/tab-illustration2.jpeg';
 
 const data = [
   {
     id: 1,
-    tabTitle: 'Why you choose our service?',
-    title: `We will turn your idea in the successful business model framework`,
-    description: `Get your tests delivered at let home collect sample from the victory of the managements that supplies best design system guidelines ever.`,
+    tabTitle: 'Why you choose our school?',
+    title: `We want Employed India.`,
+    description: `the highest quality - the lowest price
+    to inspire and develope personality through magical expierences.
+    ace learning with intensive training at naukri school.`,
     moreLink: '#explore-more',
     image: tabImage1,
     list: [
-      'Medical and vision',
-      'Life insurance',
-      'HSAs and FSAs',
-      'Commuter benefits',
+      "2 weeks of online classes",
+      "15+ hours of soft skills training",
+      "15+ hours of sales skills",
+      "2+ hours of computer skills ",
+      "personal mentoring",
+      "No fees charged before placed",
     ],
   },
   {
     id: 2,
-    tabTitle: 'What’s our business promise?',
-    title: `We will turn your idea in the successful business model framework`,
-    description: `Get your tests delivered at let home collect sample from the victory of the managements that supplies best design system guidelines ever.`,
+    tabTitle: 'What’s our school promise?',
+    title: `We will turn your caliber into fruitfull result`,
+    description: `Turning nothing into something and here is how we do it for you.`,
     moreLink: '#explore-more',
-    image: tabImage1,
+    image: tabImage2,
     list: [
-      'Medical and vision',
-      'Life insurance',
-      'HSAs and FSAs',
-      'Commuter benefits',
+      'E-learning',
+      'Enhancement',
+      'Grroming',
+      'Best Result',
+      "Build Resumes",
+      
     ],
   },
   {
     id: 3,
     tabTitle: 'What’s our role model plan?',
-    title: `We will turn your idea in the successful business model framework`,
-    description: `Get your tests delivered at let home collect sample from the victory of the managements that supplies best design system guidelines ever.`,
+    title: `We will make you skilled so you can get any service`,
+    description: `Any Grad can get the job only he need some exposure and enhancement in their skills and personallity development`,
     moreLink: '#explore-more',
     image: tabImage1,
     list: [
-      'Medical and vision',
-      'Life insurance',
-      'HSAs and FSAs',
-      'Commuter benefits',
+      'Engilish Development',
+      'Confindence Boost',
+      'Mock speeches to increase your skill',
+      'Multiple jobs',
     ],
   },
 ];
@@ -160,7 +167,7 @@ const styles = {
       '.list-item': {
         fontSize: [0, null, null, 1, 2],
         fontWeight: 500,
-        lineHeight: [2.8],
+        lineHeight: [1.5],
         display: 'flex',
         alignItems: 'center',
       },

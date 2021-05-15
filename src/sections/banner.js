@@ -12,8 +12,8 @@ const Banner = () => {
         <Box sx={styles.contentWrapper}>
           <SectionHeading
             sx={styles.heading}
-            title="Creativity starts with viewing the whole world differently"
-            description="A service agency with customer satisfaction"
+            title="We Empower Your Journey To Success"
+            description="Prepare with us to fit in World of Success."
           />
           <Box as="figure" sx={styles.illustration}>
             <Box sx={styles.buttonWrapper}>

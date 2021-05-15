@@ -23,6 +23,7 @@ export default function Footer() {
             </Box>
             <Text as="p" sx={styles.copyright}>
               Copyright by {new Date().getFullYear()} RedQ, Inc
+              Contact Number: 90129 13274, 79063 32412
             </Text>
           </Box>
           {menuItems.map(({ id, title, items }) => (

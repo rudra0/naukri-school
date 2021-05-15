@@ -19,8 +19,8 @@ const data = [
   {
     id: 1,
     avatar: avatar1,
-    name: 'Emmalee Mclain',
-    designation: 'Product Designer',
+    name: 'Saurav Yadav',
+    designation: 'Selling Lead',
     socialLinks: [
       {
         name: 'twitter',
@@ -38,8 +38,8 @@ const data = [
   },
   {
     id: 2,
-    avatar: avatar2,
-    name: 'Daisy Morgan',
+    avatar: avatar1,
+    name: 'Anuj Jadon',
     designation: 'Lead developer',
     socialLinks: [
       {
@@ -54,65 +54,9 @@ const data = [
   },
   {
     id: 3,
-    avatar: avatar3,
-    name: 'Ariyanna Hicks',
-    designation: 'Experience Designer',
-    socialLinks: [
-      {
-        name: 'twitter',
-        link: 'http://twitter.com',
-      },
-      {
-        name: 'github',
-        link: 'http://github.com',
-      },
-    ],
-  },
-  {
-    id: 4,
-    avatar: avatar4,
-    name: 'Yamilet Hooker',
-    designation: 'User interface designer',
-    socialLinks: [
-      {
-        name: 'twitter',
-        link: 'http://twitter.com',
-      },
-      {
-        name: 'github',
-        link: 'http://github.com',
-      },
-      {
-        name: 'dribbble',
-        link: 'http://dribbble.com',
-      },
-    ],
-  },
-  {
-    id: 5,
     avatar: avatar1,
-    name: 'Emmalee Mclain',
-    designation: 'Product Designer',
-    socialLinks: [
-      {
-        name: 'twitter',
-        link: 'http://twitter.com',
-      },
-      {
-        name: 'github',
-        link: 'http://github.com',
-      },
-      {
-        name: 'dribbble',
-        link: 'http://dribbble.com',
-      },
-    ],
-  },
-  {
-    id: 6,
-    avatar: avatar2,
-    name: 'Daisy Morgan',
-    designation: 'Lead developer',
+    name: 'Krishna Jadon',
+    designation: 'Selling Head',
     socialLinks: [
       {
         name: 'twitter',
@@ -125,34 +69,14 @@ const data = [
     ],
   },
   {
-    id: 7,
-    avatar: avatar3,
-    name: 'Ariyanna Hicks',
-    designation: 'Experience Designer',
+    id: 2,
+    avatar: avatar1,
+    name: 'Rudra Pratap Singh',
+    designation: 'Counselling',
     socialLinks: [
       {
         name: 'twitter',
         link: 'http://twitter.com',
-      },
-      {
-        name: 'github',
-        link: 'http://github.com',
-      },
-    ],
-  },
-  {
-    id: 8,
-    avatar: avatar4,
-    name: 'Yamilet Hooker',
-    designation: 'User interface designer',
-    socialLinks: [
-      {
-        name: 'twitter',
-        link: 'http://twitter.com',
-      },
-      {
-        name: 'github',
-        link: 'http://github.com',
       },
       {
         name: 'dribbble',
@@ -160,6 +84,7 @@ const data = [
       },
     ],
   },
+  
 ];
 
 const OurTeam = () => {

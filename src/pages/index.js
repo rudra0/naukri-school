@@ -16,16 +16,16 @@ export default function IndexPage() {
     <ThemeProvider theme={theme}>
       <Layout>
         <SEO
-          title="Naukri School"
+          title="Naukri School  "
           description="Prepare with us to fit with World."
         />
         <Banner />
         <Services />
-        <Testimonials />
+        {/* <Testimonials /> */}
         <OurTeam />
         <OtherServices />
         <WhyUs />
-        <Blog />
+        {/* <Blog /> */}
         <SubscribeUs />
       </Layout>
     </ThemeProvider>

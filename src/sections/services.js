@@ -12,20 +12,38 @@ const data = [
   {
     id: 1,
     icon: icon1,
-    title: 'Marketing & advertising',
-    description: `Get your info tests delivered at home collect a sample from the your progress tests.`,
+    title: 'Opens for Everyone',
+    description: `Any one with zeal to get something can be part of our programme to get skilled and get your dream job`,
   },
   {
     id: 3,
     icon: icon2,
-    title: 'Ultimate development',
-    description: `Get your info tests delivered at home collect a sample from the your progress tests.`,
+    title: 'Live Classes',
+    description: `Daily Live classes best suit your time until you get the job.`,
   },
   {
     id: 4,
     icon: icon3,
-    title: 'Business Enterprise',
-    description: `Get your info tests delivered at home collect a sample from the your progress tests.`,
+    title: 'Soft Skills',
+    description: `Boost your communication skills to get the best part of your time to get the job`,
+  },
+  {
+    id: 5,
+    icon: icon3,
+    title: 'Mock Interview',
+    description: `Weekly review tests and mock interviews`,
+  },
+  {
+    id: 6,
+    icon: icon3,
+    title: 'Personal Mentoring',
+    description: `Learn from some of the best industry experience professionals in one-on-one session`,
+  },
+  {
+    id: 7,
+    icon: icon3,
+    title: 'Resume Building',
+    description: `To succeed in today's job market, you have to think of your resume as an adevertisement target toward your future boss.`,
   },
 ];
 
@@ -35,8 +53,8 @@ const Services = () => {
       <Container>
         <SectionHeading
           sx={styles.heading}
-          title="Grow your startup with our Service"
-          description="Build an incredible workplace and grow your business with Gusto’s all-in-one platform with amazing contents."
+          title="Enhance your Career path with our Guidence"
+          description="A place where you can build, learn and grow to get good job your interest.Lets Get Skilled together."
         />
         <Box sx={styles.contentWrapper}>
           {data?.map((item) => (
