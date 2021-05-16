@@ -14,7 +14,7 @@ const data = [
     tabTitle: 'Why you choose our school?',
     title: `We want Employed India.`,
     description: `the highest quality - the lowest price
-    to inspire and develope personality through magical expierences.
+    to inspire and develope personality through magical expierences and
     ace learning with intensive training at naukri school.`,
     moreLink: '#explore-more',
     image: tabImage1,
@@ -30,8 +30,8 @@ const data = [
   {
     id: 2,
     tabTitle: 'What’s our school promise?',
-    title: `We will turn your caliber into fruitfull result`,
-    description: `Turning nothing into something and here is how we do it for you.`,
+    title: `Turning Nothing into Something.`,
+    description: `The naukri school is dedicated to bring motivation and skills to every student in the world, and here is how we do it for you`,
     moreLink: '#explore-more',
     image: tabImage2,
     list: [
@@ -46,8 +46,8 @@ const data = [
   {
     id: 3,
     tabTitle: 'What’s our role model plan?',
-    title: `We will make you skilled so you can get any service`,
-    description: `Any Grad can get the job only he need some exposure and enhancement in their skills and personallity development`,
+    title: `Hire industry specific professionals from us at no cost. `,
+    description: `Anyone can get the job only they need some exposure and enhancement in their skills and personallity development`,
     moreLink: '#explore-more',
     image: tabImage1,
     list: [

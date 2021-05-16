@@ -22,7 +22,7 @@ export default function Footer() {
               <Link path="#!">Privacy</Link>
             </Box>
             <Text as="p" sx={styles.copyright}>
-              Copyright by {new Date().getFullYear()} RedQ, Inc
+              Copyright by {new Date().getFullYear()} Powered by WybeAi.
               Contact Number: 90129 13274, 79063 32412
             </Text>
           </Box>
