@@ -53,7 +53,7 @@ const Services = () => {
       <Container>
         <SectionHeading
           sx={styles.heading}
-          title="Enhance your Career path with our Guidence"
+          title="Enhance your Career path with our Guidance"
           description="A place where you can build, learn and grow to get good job your interest.Lets Get Skilled together."
         />
         <Box sx={styles.contentWrapper}>

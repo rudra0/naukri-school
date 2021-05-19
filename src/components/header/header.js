@@ -26,11 +26,11 @@ export default function Header() {
                     ))}
                   </Box>
                   <Button variant="text" sx={styles.getStartedDesktop}>
-                    Get Started
+                    <a  style={{textDecoration: "none"}} href="https://forms.gle/jL9dm6E1caUJ5p2i9">Get Started</a>
                   </Button>
                 </Box>
                 <Button variant="text" sx={styles.getStartedMobile}>
-                  Get Started
+                  <a style={{textDecoration: "none"}} href="https://forms.gle/jL9dm6E1caUJ5p2i9">Get Started</a>
                 </Button>
                 <NavbarDrawer />
               </Box>
