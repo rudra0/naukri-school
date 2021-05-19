@@ -17,7 +17,7 @@ const Banner = () => {
           />
           <Box as="figure" sx={styles.illustration}>
             <Box sx={styles.buttonWrapper}>
-              <Button><a style={{textDecoration: "none"}} href="https://forms.gle/jL9dm6E1caUJ5p2i9">Get Started</a></Button>
+            <a style={{textDecoration: "none",color:"white"}} href="https://forms.gle/jL9dm6E1caUJ5p2i9"> <Button>Get Started</Button></a>
             </Box>
             <Image src={illustration} alt="illustration" />
           </Box>
