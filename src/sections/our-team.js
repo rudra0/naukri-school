@@ -19,7 +19,7 @@ const data = [
   {
     id: 1,
     avatar: avatar1,
-    name: 'Saurav Yadav',
+    name: 'Parth Singhal',
     designation: 'Selling Lead',
     socialLinks: [
       {
@@ -39,7 +39,7 @@ const data = [
   {
     id: 2,
     avatar: avatar1,
-    name: 'Anuj Jadon',
+    name: 'Anuj Khurana',
     designation: 'Lead developer',
     socialLinks: [
       {
@@ -55,7 +55,7 @@ const data = [
   {
     id: 3,
     avatar: avatar1,
-    name: 'Krishna Jadon',
+    name: 'Neel Kamal',
     designation: 'Selling Head',
     socialLinks: [
       {
@@ -71,7 +71,7 @@ const data = [
   {
     id: 2,
     avatar: avatar1,
-    name: 'Rudra Pratap Singh',
+    name: 'Kartik Mahajan',
     designation: 'Counselling',
     socialLinks: [
       {
